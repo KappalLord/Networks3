@@ -22,6 +22,11 @@ int main()
 	return 0;
 }
 
+void useless()
+{
+	cout << "Useless" << endl;
+}
+
 int fibonachi_last(int num)
 {
 	
